@@ -1,7 +1,7 @@
 package dom
 
 import (
-	"github.com/owais/rendr/components"
+	"github.com/owais/rendr/pkg/components"
 	"honnef.co/go/js/dom"
 )
 
